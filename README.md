@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+# Name : A. Kamal raj
+# Ref. no: 212223040082
 
 # Aim : 
 
